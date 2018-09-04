@@ -12,6 +12,10 @@
     "filter"
   ],
   "author": "Phill Barron",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phillipbarron/slate-data-filter-plugin"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
@@ -20,8 +24,5 @@
     "babel-preset-env": "^1.7.0",
     "jest": "^23.5.0"
   },
-  "dependencies": {
-    "@babel/polyfill": "^7.0.0",
-    "immutable": "^3.8.2"
-  }
+  "dependencies": {}
 }
