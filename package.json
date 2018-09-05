@@ -2,7 +2,7 @@
   "name": "slate-data-filter-plugin",
   "version": "0.0.1",
   "description": "onKeyDown Handler which removes data that would othwise be inherited ",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
