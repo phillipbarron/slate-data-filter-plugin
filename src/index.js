@@ -1,7 +1,7 @@
 /** 
  * filter out parent data
 */
-export function FilterData() {
+function FilterData() {
     return {
         onKeyDown(event, change) {
             if (event.keyCode === 13) {
