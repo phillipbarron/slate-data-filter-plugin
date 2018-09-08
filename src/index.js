@@ -1,5 +1,6 @@
-/** 
- * filter out parent data
+/**
+ * filter out parent block data
+ * @param {Array} whitelist - propeties to be omitted from filter 
  */
 function FilterData(whitelist = []) {
     return {
