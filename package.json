@@ -1,7 +1,7 @@
 {
   "name": "slate-data-filter-plugin",
-  "version": "0.0.4",
-  "description": "onKeyDown Handler which removes data that would othwise be inherited ",
+  "version": "0.0.5",
+  "description": "onKeyDown handler which removes data that would othwise be inherited ",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel ./src -d ./lib",
@@ -11,7 +11,10 @@
   "keywords": [
     "slatejs",
     "data",
-    "filter"
+    "filter",
+    "onKeyDown",
+    "whitelist",
+    "slate"
   ],
   "author": "Phill Barron",
   "repository": {
