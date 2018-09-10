@@ -1,6 +1,6 @@
 ### Filter data on enter handler
 
-Removes any data props which would otherwise be inherited for the enter onKeyDown event. This applies to all blick types.
+Removes any data props which would otherwise be inherited for the enter onKeyDown event. This applies to all block-types.
 
 Accepts a whitelist array parameter to allow defined values to be inherited. 
 
