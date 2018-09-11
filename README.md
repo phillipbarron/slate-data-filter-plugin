@@ -6,7 +6,7 @@ Accepts a whitelist array parameter to allow defined values to be inherited.
 
 ### usage
 
-#### no whitelist
+#### no whitelist:
 
 ```js
 import React, { Component } from 'react'
@@ -31,7 +31,7 @@ export default class App extends Component {
 }
 ```
 
-#### with whitelist
+#### with whitelist:
 
 ```js
 import React, { Component } from 'react'
