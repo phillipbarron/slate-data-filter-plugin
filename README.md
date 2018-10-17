@@ -1,12 +1,12 @@
-### Filter data on enter handler
+# Filter data on enter handler
 
 Removes any data props which would otherwise be inherited for the enter onKeyDown event. This applies to all block-types.
 
 Accepts a whitelist array parameter to allow defined values to be inherited. 
 
-### usage
+## usage
 
-#### no whitelist:
+### no whitelist
 
 ```js
 import React, { Component } from 'react'
@@ -31,7 +31,7 @@ export default class App extends Component {
 }
 ```
 
-#### with whitelist:
+### with whitelist
 
 ```js
 import React, { Component } from 'react'
@@ -55,7 +55,8 @@ export default class App extends Component {
     };
 }
 ```
-#### testing
+
+### testing
 
 ```bash
 npm run test
