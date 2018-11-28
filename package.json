@@ -1,6 +1,6 @@
 {
   "name": "slate-data-filter-plugin",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "onKeyDown handler which removes data that would othwise be inherited ",
   "main": "lib/index.js",
   "scripts": {
@@ -23,12 +23,11 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "jest": "^23.5.0"
-  },
-  "dependencies": {}
+    "jest": "^23.6.0"
+  }
 }
