@@ -61,3 +61,4 @@ export default class App extends Component {
 ```bash
 npm run test
 ```
+// todo - update for crrent slate version
